@@ -1,6 +1,12 @@
 # Sonar Stryker Mutator Plugin
 This project aims create a plugin to integrate [Stryker-Mutator]([https://stryker-mutator.io) and [SonarQube](https://www.sonarqube.org).
 
+
+## Pre REQ
+
+- JAVA 8
+    -  otherwise you wont be able to build the project
+
 ## Build
 To build the project, clone the repository and run this command:
 
